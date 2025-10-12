@@ -37,7 +37,7 @@
     }
   </style>
 </head>
-<body> <img src="https://pg.onlineadmission.org/images/CBCC_LOGO.jpeg" alt="coochbehar college" hight="100"width="100" />
+<body>
     <h1>COOCHBEHAR COLLEGE</h1>
     <h1>3RD SEMESTER</h1>
   <h1>WEEKLY ROUTINE</h1>
