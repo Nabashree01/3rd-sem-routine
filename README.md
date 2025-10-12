@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -128,7 +128,7 @@
      <br> Prof Subarna Panchanan(SP)
      <br> Prof Srabanti Ghosh(SG)
 
-    </TABLE>
+  
     </body>
     </html>
     
